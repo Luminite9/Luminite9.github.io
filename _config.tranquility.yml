@@ -184,7 +184,7 @@ cv:
         icon: file
         list: true
         content:
-          - "Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang. “skscope: Fast Sparsity-Constrained Optimization in Python” <i>arXiv</i>, 2024."
+          - <a href="https://doi.org/10.48550/arXiv.2403.18540">"Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang. “skscope: Fast Sparsity-Constrained Optimization in Python” <i>arXiv</i>, 2024."</a>
       - title: Research Experience
         icon: magnifying-glass
         sections:
