@@ -164,22 +164,22 @@ cv:
     github: https://github.com/Luminite9
     blog: Luminite
     blogHref: https://luminite9.github.io/
-    edu:
-      title: "Education"
-      sections:
-        - title: University of Science and Technology of China
-          description: Sept. 2023 - Present
-          content:
-            - Master's student in Statistics, School of Management
-        - title: University of Science and Technology of China
-          description: Sept. 2019 - June 2023
-          content:
-            - Bachelor of Statistics, School of the Gifted Young
-            - <b>GPA:</b> 3.75/4.30 (88.1/100)
-            - <b>Ranking:</b> 15/75 (Statistics)
-
 
     chapters:
+      - title: "Education"
+        icon: graduation-cap
+        sections:
+          - title: University of Science and Technology of China
+            description: Sept. 2023 - Present
+            content:
+              - Master's student in Statistics, School of Management
+          - title: University of Science and Technology of China
+            description: Sept. 2019 - June 2023
+            content:
+              - Bachelor of Statistics, School of the Gifted Young
+              - <b>GPA:</b> 3.75/4.30 (88.1/100)
+              - <b>Ranking:</b> 15/75 (Statistics)
+
       - title: "代表作品"
         icon: person-digging
         tips: 请点击项目名称查看项目详情
