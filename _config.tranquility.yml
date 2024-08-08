@@ -194,7 +194,7 @@ cv:
             description: Oct. 2022 - Present
             list: true
             content:
-              - "UKBFound:  build foundation model for multi-disease prediction and individual risk assessment based on UK Biobank."
+              - "Develop new methods for GWAS based on UK Biobank data."
           
           - title: "Python package: skscope"
             description: July. 2023 - Present
