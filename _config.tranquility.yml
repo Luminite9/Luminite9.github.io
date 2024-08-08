@@ -52,27 +52,9 @@ foot:
     - "海内存知己"
     - "天涯若比邻"
 
-links: # 朋友
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
-  - name: "Jin Zhu"
-    url: https://mamba413.github.io/
+# links: # 朋友
+  # - name: "Jin Zhu"
+    # url: https://mamba413.github.io/
 
 social:
   - name: "Luminite9"
