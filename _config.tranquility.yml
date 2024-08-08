@@ -151,26 +151,34 @@ cv:
   enable: true
   showInNav: true
   iconPrefix: fas
-  keywords: 简历,李白
-  description: 李白的简历
-  title: 李白的简历
+  keywords: Statistics, Data Science, Bioinformatics, Computer Science, Music
+  description: CV of Huiyang Peng
+  title: CV
   content:
-    title: 李白
+    title: Huiyang Peng
     baseInfo:
-      - 唐朝
-      - 诗人
-      - 太白
-      - 青莲居士
-    tel: 八八八八八
-    email: 李白@唐.中文
-    github: 暂无
-    blog: Tranquility
-    blogHref: https://theme.hozen.site/tranquility/
+      - 21 Years Old
+      - Master's student
+    # tel: +86 19825568520
+    email: kisstherain@mail.ustc.edu.cn
+    github: https://github.com/Luminite9
+    blog: Luminite
+    blogHref: https://luminite9.github.io/
     edu:
-      title: "教育背景"
-      content:
-        - 701 至 715，修习诗词剑术
-        - 718 至 724，蜀地隐居
+      title: "Education"
+      sections:
+        - title: University of Science and Technology of China
+          description: Sept. 2023 - Present
+          content:
+            - Master's student in Statistics, School of Management
+        - title: University of Science and Technology of China
+          description: Sept. 2019 - June 2023
+          content:
+            - Bachelor of Statistics, School of the Gifted Young
+            - <b>GPA:</b> 3.75/4.30 (88.1/100)
+            - <b>Ranking:</b> 15/75 (Statistics)
+
+
     chapters:
       - title: "代表作品"
         icon: person-digging
