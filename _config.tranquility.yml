@@ -190,13 +190,11 @@ cv:
         sections:
           - title: Python package: skscope
             description: July. 2023 - Present
-            list: true
             content:
               - Established online documentation for software, wrote part of the documentation, and conducted some experiments.
 
           - title: Best Subset Selection in Deep Neural Network
             description: Sept. 2023 - Present
-            list: true
             content:
               - Developed an efficient algorithm for best subset recovery in deep neural network.
               - Conducted the coding component including algorithm, simulation and real data analysis.
