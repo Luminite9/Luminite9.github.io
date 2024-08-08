@@ -148,7 +148,7 @@ mermaid:
     startOnload: true
 
 cv:
-  enable: false
+  enable: true
   showInNav: true
   iconPrefix: fas
   keywords: 简历,李白
