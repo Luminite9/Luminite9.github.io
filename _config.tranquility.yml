@@ -190,6 +190,12 @@ cv:
       - title: Research Experience
         icon: magnifying-glass
         sections:
+          - title: "Data Analysis on UK Biobank"
+            description: Oct. 2022 - Present
+            list: true
+            content:
+              - "UKBFound:  build foundation model for multi-disease prediction and individual risk assessment based on UK Biobank."
+          
           - title: "Python package: skscope"
             description: July. 2023 - Present
             list: true
