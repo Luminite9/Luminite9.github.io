@@ -201,19 +201,17 @@ cv:
               - 这首诗十分形象的体现了李白桀骜不驯的性格：对自己充满自信、孤高自傲、热情豪放，“天生我材必有用”、“人生得意须尽欢”。全诗气势豪迈，感情豪放，言语流畅，具有极强的感染力。李白咏酒的诗歌非常能体现他的个性，思想内容深沉，艺术表现成熟。《将进酒》即为其代表作。
       - title: Teaching Experience
         icon: chalkboard
-        sections:
-          - title: 大唐翰林供奉
-            description: 743 - 744
-            content:
-              - 赐宫锦袍。暮春，兴庆池牡丹盛开，玄宗与杨玉环同赏，李白又奉诏作《清平调》。对御用文人生活日渐厌倦，始纵酒以自昏秽。
-              - 与贺知章等人结“酒中八仙”之游，玄宗呼之不朝。尝奉诏醉中起草诏书，引足令高力士脱靴，宫中人恨之，谗谤于玄宗，玄宗疏之，后玄宗赐金放还。
+        list: true
+        content:
+          - <b>Teaching Assistant, Mathematical analysis B1 (Credit:6)</b>  <i>Sept. 2022 - Jan. 2023</i>
+          - <b>Teaching Assistant, Mathematical analysis B2 (Credit:6)</b>  <i>Feb. 2023 - Jul. 2023</i>
       - title: Honors And Awards
         icon: award
         list: true
         content:
-          - <b>Outstanding Graduate Award</b> <i>Jun. 2023</i>
-          - <b>Outstanding Students Scholarship</b> <i>Nov. 2020 & Nov. 2021 & Nov. 2022</i>
-          - <b>Cyrus Tang Scholarship</b> <i>June. 2020 - June. 2023</i>
+          - <b>Outstanding Graduate Award</b>  <i>Jun. 2023</i>
+          - <b>Outstanding Students Scholarship</b>  <i>Nov. 2020 & Nov. 2021 & Nov. 2022</i>
+          - <b>Cyrus Tang Scholarship</b>  <i>June. 2020 - June. 2023</i>
       
 search:
   path: search.json
