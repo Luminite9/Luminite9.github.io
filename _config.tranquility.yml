@@ -207,18 +207,14 @@ cv:
             content:
               - 赐宫锦袍。暮春，兴庆池牡丹盛开，玄宗与杨玉环同赏，李白又奉诏作《清平调》。对御用文人生活日渐厌倦，始纵酒以自昏秽。
               - 与贺知章等人结“酒中八仙”之游，玄宗呼之不朝。尝奉诏醉中起草诏书，引足令高力士脱靴，宫中人恨之，谗谤于玄宗，玄宗疏之，后玄宗赐金放还。
-      - title: 荣誉奖项
-        icon: trophy
+      - title: Honors And Awards
+        icon: award
         list: true
         content:
-          - 诗仙
-          - 酒中八仙
-      - title: 个人小结
-        icon: ranking-star
-        content:
-          - 为人爽朗大方，乐于交友，爱好饮酒作诗，名列“酒中八仙”  。曾经得到唐玄宗李隆基赏识，担任翰林供奉， 赐金放还，游历全国，先后迎娶宰相许圉师、宗楚客的孙女。唐肃宗即位后，卷入永王之乱，流放夜郎，辗转到达当涂县令李阳冰家。上元二年，去世，时年六十二。
-          - 著有《李太白集》，代表作有《望庐山瀑布》《行路难》《蜀道难》《将进酒》《早发白帝城》等。 李白所作词赋，就其开创意义及艺术成就而言，享有极为崇高的地位，后世誉为“诗仙”，与诗圣杜甫并称“李杜”。
-
+          - <b>Outstanding Graduate Award</b> <i>Jun. 2023</i>
+          - <b>Outstanding Students Scholarship</b> <i>Nov. 2020 & Nov. 2021 & Nov. 2022</i>
+          - <b>Cyrus Tang Scholarship</b> <i>June. 2020 - June. 2023</i>
+      
 search:
   path: search.json
   enable: true
