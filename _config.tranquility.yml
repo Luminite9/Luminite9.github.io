@@ -17,16 +17,22 @@ subpage: # 开启“子页”功能，详见 README
       path: computer
       title: Computer
       icon: /images/icon/icon-code.svg
-      description: "A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal Turing Machine. - Alan Turing"
+      description: "一个有纸、笔、橡皮擦并且坚持严格的行为准则的人，实质上就是一台通用图灵机。 - 艾伦·图灵"
 
     - name: Math
       path: math
       title: Math
       icon: /images/icon/icon-pi.svg
-      description: "The essence of mathematics is its freedom. - Georg Cantor"
+      description: "大部分情况下，生活中最重要的问题只不过一个概率问题。 - 皮埃尔-西蒙·拉普拉斯"
+
+    - name: Prose
+      path: prose
+      title: Prose
+      icon: /images/icon/icon-book-opened.svg
+      description: "令她反感的，远不是世界的丑陋，而是这个世界所戴的漂亮面具。 - 米兰·昆德拉"
 
 index: # 配置首页个性化内容
-  motto: "长风破浪会有时！"
+  # motto: "长风破浪会有时！"
   poem:
     - 君不见高堂明镜悲白发
     - 朝如青丝暮成雪
