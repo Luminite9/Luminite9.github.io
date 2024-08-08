@@ -32,6 +32,7 @@ subpage: # 开启“子页”功能，详见 README
       description: "令她反感的，远不是世界的丑陋，而是这个世界所戴的漂亮面具。 - 米兰·昆德拉"
 
 index: # 配置首页个性化内容
+  enable: false
   # motto: "长风破浪会有时！"
   poem:
     - 君不见高堂明镜悲白发
@@ -125,7 +126,7 @@ zh_font:
 
 # 配置时间线 参考 README.md
 timeline:
-  enable: true
+  enable: false
   order: false # 是否按时间正序展示，false 为倒序
   items:
     - name: article
