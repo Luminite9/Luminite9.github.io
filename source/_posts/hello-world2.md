@@ -1,6 +1,6 @@
 ---
-title: Hello World
-category: Science
+title: Hello World2
+category: Math
 tag:
     - math
 ---
