@@ -181,7 +181,7 @@ cv:
               - <b>Ranking:</b> 15/75 (Statistics)
 
       - title: Papers
-        icon: files
+        icon: file
         list: true
         content:
           - "Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang. “skscope: Fast Sparsity-Constrained Optimization in Python” <i>arXiv</i>, 2024."
