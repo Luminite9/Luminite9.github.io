@@ -61,7 +61,7 @@
             </div>
             {% if chp.sections %}
               {% for sec in chp.sections %}
-                <a href="{{ sec.link or '#' }}" class="section__head">
+                <a href="{{ sec.link or 'javascript:void(0);' }}" class="section__head">
                   <div class="section-title">{{ sec.title }}</div>
                   <div class="section-title-des">{{ sec.description }}</div>
                 </a>
