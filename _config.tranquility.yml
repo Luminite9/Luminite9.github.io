@@ -166,7 +166,7 @@ cv:
     blogHref: https://luminite9.github.io/
 
     chapters:
-      - title: "Education"
+      - title: Education
         icon: graduation-cap
         sections:
           - title: University of Science and Technology of China
@@ -180,25 +180,11 @@ cv:
               - <b>GPA:</b> 3.75/4.30 (88.1/100)
               - <b>Ranking:</b> 15/75 (Statistics)
 
-      - title: "代表作品"
-        icon: person-digging
-        tips: 请点击项目名称查看项目详情
-        sections:
-          - title: 蜀道难
-            link: https://so.gushiwen.cn/shiwenv_d59ec5d6c91c.aspx
-            description: 乐府诗、浪漫主义
-            content:
-              - 天宝元年
-              - 这首诗是袭用乐府旧题，意在送友人入蜀。诗人以浪漫主义的手法，展开丰富的想象，艺术地再现了蜀道峥嵘，突兀，强悍、崎岖等奇丽惊险和不可凌越的磅礴气势，借以歌咏蜀地山川的壮秀，显示出祖国山河的雄伟壮丽。
-              - 至于本诗是否有更深的寓意，历代有各种不同看法。然而就诗论诗，不一定强析有寓意。但从诗中，“所守或匪亲，化为狼与豺”看，却是在写蜀地山川峻美的同时，告诫当局，蜀地险要，应好好用人防守。
-              - 诗采用律体与散文间杂，文句参差，笔意纵横，豪放洒脱。全诗感情强烈，一唱三叹，回环反复，读来令人心潮激荡。
-          - title: 将进酒
-            link: https://so.gushiwen.cn/shiwenv_ee16df5673bc.aspx
-            description: 乐府七言歌行
-            content:
-              - 开元二十二年
-              - 这首诗是诗人当时和友人岑勋在嵩山另一老友元丹丘的颍阳山居作客，作者正值仕途遇挫之际，所以借酒兴诗，来了一次酣畅淋漓的抒发。在这首诗里，李白“借题发挥”，借酒消愁，感叹人生易老，抒发了自己怀才不遇的心情。
-              - 这首诗十分形象的体现了李白桀骜不驯的性格：对自己充满自信、孤高自傲、热情豪放，“天生我材必有用”、“人生得意须尽欢”。全诗气势豪迈，感情豪放，言语流畅，具有极强的感染力。李白咏酒的诗歌非常能体现他的个性，思想内容深沉，艺术表现成熟。《将进酒》即为其代表作。
+      - title: Papers
+        icon: files
+        list: true
+        content:
+          - "Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang. “skscope: Fast Sparsity-Constrained Optimization in Python” <i>arXiv</i>, 2024."
       - title: Teaching Experience
         icon: chalkboard
         list: true
