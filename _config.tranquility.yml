@@ -17,13 +17,13 @@ subpage: # 开启“子页”功能，详见 README
       path: computer
       title: Computer
       icon: /images/icon/icon-code.svg
-      description: - A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal Turing Machine. - Alan Turing
+      description: "A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal Turing Machine. - Alan Turing"
 
     - name: Math
       path: math
       title: Math
       icon: /images/icon/icon-pi.svg
-      description: The essence of mathematics is its freedom. - Georg Cantor
+      description: "The essence of mathematics is its freedom. - Georg Cantor"
 
 index: # 配置首页个性化内容
   motto: "长风破浪会有时！"
