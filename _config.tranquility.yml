@@ -218,8 +218,9 @@ cv:
         icon: chalkboard
         list: true
         content:
-          - <b>Teaching Assistant, Mathematical analysis B1 (Credit:6)</b>  <i>Sept. 2022 - Jan. 2023</i>
-          - <b>Teaching Assistant, Mathematical analysis B2 (Credit:6)</b>  <i>Feb. 2023 - Jul. 2023</i>
+          - <b>TA, Mathematical analysis B1 (Credit:6)</b>  <i>Sept. 2022 - Jan. 2023</i>
+          - <b>TA, Mathematical analysis B2 (Credit:6)</b>  <i>Feb. 2023 - Jul. 2023</i>
+          - <b>TA, Probability theory and mathematical statistics(Credit:3)</b>  <i>Sept. 2024 - Jan. 2025</i>
       - title: Honors And Awards
         icon: award
         list: true
