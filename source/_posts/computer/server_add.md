@@ -3,6 +3,7 @@ title: 服务器添加新用户并设置密码
 category: Computer
 tag:
     - server
+    - Linux
 ---
 
 ## 添加新用户

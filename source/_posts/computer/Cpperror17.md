@@ -3,6 +3,7 @@ title: 在VScode中改变解析代码所使用的C++标准
 category: Computer
 tag:
     - C++
+    - vscode
 ---
 
 改变编译源码所使用的编译器是很容易的，但如果标准不对，VScode的解析会报红色的error，这很烦人，例如：
