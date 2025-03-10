@@ -188,12 +188,16 @@ cv:
       - title: Papers
         icon: file
         sections:
-          - title: "Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang. “skscope: Fast Sparsity-Constrained Optimization in Python”"
+          - title: "skscope: Fast Sparsity-Constrained Optimization in Python"
             description: <i>JMLR</i>, 2024
             link: https://www.jmlr.org/papers/v25/23-1574.html
-            
-          - title: "Yukang Jiang, Bingxin Zhao, Xiaopu Wang, Borui Tang, <b>Huiyang Peng</b>, Zidan Luo, Yue Shen, Zheng Wang, Zhiwen Jiang, Jie Wang, Jieping Ye, Xueqin Wang, Hongtu Zhu. “UKB-MDRMF: A Multi-Disease Risk and Multimorbidity Framework Based on UK Biobank Data”"
+            content:
+              - Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang.
+
+          - title: "UKB-MDRMF: A Multi-Disease Risk and Multimorbidity Framework Based on UK Biobank Data"
             description: <i>Nature Communication</i>, 2025
+            content:
+              - Yukang Jiang, Bingxin Zhao, Xiaopu Wang, Borui Tang, <b>Huiyang Peng</b>, Zidan Luo, Yue Shen, Zheng Wang, Zhiwen Jiang, Jie Wang, Jieping Ye, Xueqin Wang, Hongtu Zhu.
 
       - title: Research Experience
         icon: magnifying-glass
