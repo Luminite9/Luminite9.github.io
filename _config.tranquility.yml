@@ -162,7 +162,7 @@ cv:
   content:
     title: Huiyang Peng
     baseInfo:
-      - 21 Years Old
+      - 22 Years Old
       - Master's student
     # tel: +86 19825568520
     email: kisstherain@mail.ustc.edu.cn
@@ -182,7 +182,7 @@ cv:
             description: Sept. 2019 - June 2023
             content:
               - Bachelor of Statistics, School of the Gifted Young
-              - <b>GPA:</b> 3.75/4.30 (88.1/100)
+              - <b>GPA:</b> 3.72/4.30 (87.9/100)
               - <b>Ranking:</b> 15/75 (Statistics)
 
       - title: Papers
@@ -190,7 +190,9 @@ cv:
         sections:
           - title: "Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang. “skscope: Fast Sparsity-Constrained Optimization in Python”"
             description: <i>JMLR</i>, 2024
-            link: https://doi.org/10.48550/arXiv.2403.18540
+            link: https://www.jmlr.org/papers/v25/23-1574.html
+          - title: "Yukang Jiang, Bingxin Zhao, Xiaopu Wang, Borui Tang, <b>Huiyang Peng</b>, Zidan Luo, Yue Shen, Zheng Wang, Zhiwen Jiang, Jie Wang, Jieping Ye, Xueqin Wang, Hongtu Zhu. “UKB-MDRMF: A Multi-Disease Risk and Multimorbidity Framework Based on UK Biobank Data”"
+            description: <i>Nature Communication</i>, 2025
 
       - title: Research Experience
         icon: magnifying-glass
@@ -202,7 +204,7 @@ cv:
               - "Develop new methods for GWAS based on UK Biobank data."
           
           - title: "Python package: skscope"
-            description: July. 2023 - Present
+            description: June. 2023 - Oct. 2024
             list: true
             content:
               - Established online documentation for software, wrote part of the documentation, and conducted some experiments.
@@ -221,6 +223,7 @@ cv:
           - <b>TA, Mathematical analysis B1 (Credit:6)</b>  <i>Sept. 2022 - Jan. 2023</i>
           - <b>TA, Mathematical analysis B2 (Credit:6)</b>  <i>Feb. 2023 - Jul. 2023</i>
           - <b>TA, Probability theory and mathematical statistics(Credit:3)</b>  <i>Sept. 2024 - Jan. 2025</i>
+          - <b>TA, Mathematical analysis B2 (Credit:6)</b>  <i>Feb. 2025 - Jul. 2025</i>
       - title: Honors And Awards
         icon: award
         list: true
