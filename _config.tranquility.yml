@@ -206,6 +206,7 @@ cv:
             description: Oct. 2022 - Present
             list: true
             content:
+              - "Develop a framework based on UK Biobank for risk and multimorbidity."
               - "Develop new methods for GWAS based on UK Biobank data."
           
           - title: "Python package: skscope"
@@ -220,6 +221,12 @@ cv:
             content:
               - Developed an efficient algorithm for best subset recovery in deep neural network.
               - Conducted the coding component including algorithm, simulation and real data analysis.
+
+          - title: Reinforcement learning for imperfect information game
+            description: Feb. 2025 - Present
+            list: true
+            content:
+              - Develop AI for imperfect information game such as GuanDan with large action space.
       
       - title: Teaching Experience
         icon: chalkboard
