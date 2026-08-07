@@ -156,13 +156,13 @@ cv:
   enable: true
   showInNav: true
   iconPrefix: fas
-  keywords: Statistics, Data Science, Bioinformatics, Computer Science, Music
+  keywords: Statistics, Data Science, Bioinformatics, Computer Science, Artificial Intelligence
   description: CV of Huiyang Peng
   title: CV
   content:
     title: Huiyang Peng
     baseInfo:
-      - 22 Years Old
+      - 23 Years Old
       - Master's student
     # tel: +86 19825568520
     email: kisstherain@mail.ustc.edu.cn
@@ -174,12 +174,20 @@ cv:
       - title: Education
         icon: graduation-cap
         sections:
+          - title: Shenzhen Loop Area Institute
+            description: Sept. 2025 - Present
+            content:
+              - PhD student in Artificial Intelligence, AI for Science and Engineering
           - title: University of Science and Technology of China
-            description: Sept. 2023 - Present
+            description: Sept. 2025 - Present
+            content:
+              - PhD student in Statistics, School of Management
+          - title: University of Science and Technology of China
+            description: Sept. 2023 - June. 2025
             content:
               - Master's student in Statistics, School of Management
           - title: University of Science and Technology of China
-            description: Sept. 2019 - June 2023
+            description: Sept. 2019 - June. 2023
             content:
               - Bachelor of Statistics, School of the Gifted Young
               - <b>GPA:</b> 3.72/4.30 (87.9/100)
@@ -195,7 +203,8 @@ cv:
               - Zezhi Wang, Jin Zhu, Peng Chen, <b>Huiyang Peng</b>, Xiaoke Zhang, Anran Wang, Yu Zheng, Junxian Zhu, Xueqin Wang.
 
           - title: "UKB-MDRMF: A Multi-Disease Risk and Multimorbidity Framework Based on UK Biobank Data"
-            description: <i>Nature Communication</i>, 2025 (to be published)
+            description: <i>Nature Communication</i>, 2025
+            link: https://www.nature.com/articles/s41467-025-58724-3
             content:
               - Yukang Jiang, Bingxin Zhao, Xiaopu Wang, Borui Tang, <b>Huiyang Peng</b>, Zidan Luo, Yue Shen, Zheng Wang, Zhiwen Jiang, Jie Wang, Jieping Ye, Xueqin Wang, Hongtu Zhu.
 
@@ -228,11 +237,11 @@ cv:
             content:
               - Develop AI for imperfect information game such as GuanDan with large action space.
 
-          - title: Automate data analysis with LLM
-            description: Feb. 2025 - Present
+          - title: AI for Energy
+            description: Sept. 2025 - Present
             list: true
             content:
-              - Establish a system or agent for the users who are not familier with coding to condact data analysis.
+              - Adapt artificial intelligence to make energy systems smarter, more efficient, reliable, and sustainable..
       
       - title: Teaching Experience
         icon: chalkboard
@@ -246,9 +255,16 @@ cv:
         icon: award
         list: true
         content:
+          - <b>PhD Student Scholarship</b>  <i>Sept. 2025</i>
+          - <b>Outstanding Communist Youth League Cadre</b>  <i>June. 2025</i>
+          - <b>Outstanding Communist Youth League Member</b>  <i>June. 2024 & June. 2025</i>
+          - <b>Master Student Scholarship</b>  <i>Sept. 2023 & Sept. 2024</i>
+          - <b>Rose Scholarship</b>  <i>May. 2023</i>
           - <b>Outstanding Graduate Award</b>  <i>Jun. 2023</i>
-          - <b>Outstanding Students Scholarship</b>  <i>Nov. 2020 & Nov. 2021 & Nov. 2022</i>
-          - <b>Cyrus Tang Scholarship</b>  <i>June. 2020 - June. 2023</i>
+          - <b>Provincial Second Prize, College Student Mathematics Competition</b>  <i>Nov. 2021</i>
+          - <b>Undergraduate Students Scholarship</b>  <i>Nov. 2020 & Nov. 2021 & Nov. 2022</i>
+          - <b>Cyrus Tang Scholarship</b>  <i>June. 2020 & June. 2021 & June. 2022 & June. 2023</i>
+
       
 search:
   path: search.json
