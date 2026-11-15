@@ -1,6 +1,7 @@
 ---
 title: 一个纯数学扑克魔术
 category: Prose
+date: 2026-10-06
 tag:
     - 魔术
 ---
