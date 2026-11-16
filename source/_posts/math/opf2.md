@@ -134,12 +134,13 @@ $$
 代入，即可得到对$u_{ij}=v_iv_j$的凸松弛$\mathcal{M}(v_i,v_j,u_{ij})$。同理可得$w_{ij}^r=u_{ij}c_{ij}, w_{ij}^i=u_{ij}s_{ij}$的凸松弛$\mathcal{M}(u_{ij},c_{ij},w_{ij}^r)$和$\mathcal{M}(u_{ij},s_{ij},w_{ij}^i)$。记：
 
 $$
-\mathcal M(v_i,v_j,u_{ij}),\qquad
-\mathcal M(u_{ij},c_{ij},w_{ij}^r),\qquad
-\mathcal M(u_{ij},s_{ij},w_{ij}^i).
+\mathcal{M}(v_i,v_j,u_{ij}),\qquad
+\mathcal{M}(u_{ij},c_{ij},w_{ij}^r),\qquad
+\mathcal{M}(u_{ij},s_{ij},w_{ij}^i).
 
 \tag{QC-PROD}
 $$
+
 （3）正弦和余弦：
 
 $$
@@ -167,11 +168,12 @@ $$
 $$
 T_-(\delta)=\cos(d/2)(\delta+d/2)-\sin(d/2).
 $$
+
 $L_h$ 是端点弦线；$T_+$、$T_-$ 是正弦在 $d/2$、$-d/2$ 处的切线。
 
 那么正弦包络：
-$$
 
+$$
 \begin{cases}
 T_-(\delta_{ij})\le s_{ij}\le T_+(\delta_{ij}),
 & a<0<b,\\
@@ -183,19 +185,24 @@ L_{\sin}(\delta_{ij})\le s_{ij}\le T_+(\delta_{ij}),
 
 \tag{QC-SIN}
 $$
+
 余弦包络：
+
 $$
 L_{\cos}(\delta_{ij})\le c_{ij}
 \le1-\frac{1-\cos d}{d^2}\delta_{ij}^2.
 
 \tag{QC-COS}
 $$
+
 潮流方程，直接进行符号替换：
+
 $$
 S_{ij}=
 \left(y_{ij}^*+(y_{ij}^{sh})^*\right)\frac{w_i}{t_{ij}^2}
 -\frac{y_{ij}^*}{\tau_{ij}}W_{ij},
 $$
+
 $$
 S_{ji}=
 \left(y_{ij}^*+(y_{ji}^{sh})^*\right)w_j
@@ -203,7 +210,9 @@ S_{ji}=
 
 \tag{QC-FLOW}
 $$
+
 功率平衡，直接进行符号替换：
+
 $$
 \begin{aligned}
 \sum_{k\in G_i}p_k^g-P_i^d-g_i^s w_i
@@ -213,7 +222,9 @@ $$
 \end{aligned}
 \tag{QC-KCL}
 $$
+
 线路容量：
+
 $$
 P_{ij}^2+Q_{ij}^2\le\overline s_{ij}^{\,2}.
 \tag{QC-THERMAL}
@@ -222,17 +233,22 @@ $$
 ### 电流平方约束
 
 Recall前面的等值电路中：
+
 $$
 U_a=\frac{V_i}{\tau_{ij}},\quad
 I_s=y_{ij}(U_a-V_j),\quad
 I_a=I_s+y_{ij}^{sh}U_a.
 $$
-$$P_{ij}^2+Q_{ij}^2=|S_{ij}|^2=|U_a I_a^*|^2=|U_a|^2 |I_a|^2=\frac{|V_i|^2}{t_{ij}^2}|I_a|^2=\frac{w_i}{t_{ij}^2}|I_a|^2$$
-设一个新的提升变量$l_{ij}=|I_a|^2$，则
-$$P_{ij}^2+Q_{ij}^2 =\frac{w_i}{t_{ij}^2} l_{ij}$$
-QC使用松弛：
-$$
 
+$$P_{ij}^2+Q_{ij}^2=|S_{ij}|^2=|U_a I_a^*|^2=|U_a|^2 |I_a|^2=\frac{|V_i|^2}{t_{ij}^2}|I_a|^2=\frac{w_i}{t_{ij}^2}|I_a|^2$$
+
+设一个新的提升变量$l_{ij}=|I_a|^2$，则
+
+$$P_{ij}^2+Q_{ij}^2 =\frac{w_i}{t_{ij}^2} l_{ij}$$
+
+QC使用松弛：
+
+$$
 P_{ij}^2+Q_{ij}^2
 \le\frac{w_i}{t_{ij}^2}\ell_{ij},\qquad
 w_i\ge0,\quad\ell_{ij}\ge0.
@@ -241,12 +257,15 @@ w_i\ge0,\quad\ell_{ij}\ge0.
 $$
 
 由 $I_s=I_a-y_{ij}^{sh}U_a$，
+
 $$
 |I_a|^2
 =|I_s|^2-|y_{ij}^{sh}|^2|U_a|^2
 +2\Re(y_{ij}^{sh}S_{ij}).
 $$
+
 又由$I_s=y_{ij}(U_a-V_j)$，
+
 $$
 |I_s|^2
 =|y_{ij}|^2\left(
@@ -254,9 +273,10 @@ $$
 -2\Re\frac{V_iV_j^*}{\tau_{ij}}
 \right).
 $$
-替换电压乘积后，得到必须保留的线性关联式：
-$$
 
+替换电压乘积后，得到必须保留的线性关联式：
+
+$$
 \begin{aligned}
 \ell_{ij}
 &={}(g_{ij}^2+b_{ij}^2)
@@ -267,17 +287,21 @@ $$
 
 \tag{QC-CURRENT-LINK}
 $$
+
 显式保留电压乘积锥约束：
+
 $$
 (w_{ij}^r)^2+(w_{ij}^i)^2\le w_iw_j.
 \tag{QC-W-SOC}
 $$
 
 引入的辅助变量的取值范围的合集称为QC-BOUNDS，并保留与SOC一致的相角约束：
+
 $$
 \tan(a)w_{ij}^r\le w_{ij}^i\le\tan(b)w_{ij}^r.
 \tag{QC-SECTOR}
 $$
+
 综上，QC-OPF的完整模型为：
 
 $$
