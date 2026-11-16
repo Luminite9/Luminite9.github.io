@@ -182,7 +182,6 @@ T_-(\delta_{ij})\le s_{ij}\le L_{\sin}(\delta_{ij}),
 L_{\sin}(\delta_{ij})\le s_{ij}\le T_+(\delta_{ij}),
 & a\ge0.
 \end{cases}
-
 \tag{QC-SIN}
 $$
 
@@ -191,7 +190,6 @@ $$
 $$
 L_{\cos}(\delta_{ij})\le c_{ij}
 \le1-\frac{1-\cos d}{d^2}\delta_{ij}^2.
-
 \tag{QC-COS}
 $$
 
@@ -207,7 +205,6 @@ $$
 S_{ji}=
 \left(y_{ij}^*+(y_{ji}^{sh})^*\right)w_j
 -\frac{y_{ij}^*}{\tau_{ij}^*}W_{ij}^*.
-
 \tag{QC-FLOW}
 $$
 
@@ -252,7 +249,6 @@ $$
 P_{ij}^2+Q_{ij}^2
 \le\frac{w_i}{t_{ij}^2}\ell_{ij},\qquad
 w_i\ge0,\quad\ell_{ij}\ge0.
-
 \tag{QC-CURRENT-SOC}
 $$
 
@@ -284,7 +280,6 @@ $$
 &-\left((g_{ij}^{sh})^2+(b_{ij}^{sh})^2\right)\frac{w_i}{t_{ij}^2}
 +2\left(g_{ij}^{sh}P_{ij}-b_{ij}^{sh}Q_{ij}\right).
 \end{aligned}
-
 \tag{QC-CURRENT-LINK}
 $$
 
