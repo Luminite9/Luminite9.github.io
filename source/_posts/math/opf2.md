@@ -137,7 +137,6 @@ $$
 \mathcal{M}(v_i,v_j,u_{ij}),\qquad
 \mathcal{M}(u_{ij},c_{ij},w_{ij}^r),\qquad
 \mathcal{M}(u_{ij},s_{ij},w_{ij}^i).
-
 \tag{QC-PROD}
 $$
 
