@@ -132,8 +132,8 @@ $$
 （2）乘积关系$u_{ij}=v_iv_j$：
 在McCormick 包络公式中，将$$ x=v_i,\qquad y=v_j,\qquad z=u_{ij} $$
 代入，即可得到对$u_{ij}=v_iv_j$的凸松弛$\mathcal{M}(v_i,v_j,u_{ij})$。同理可得$w_{ij}^r=u_{ij}c_{ij}, w_{ij}^i=u_{ij}s_{ij}$的凸松弛$\mathcal{M}(u_{ij},c_{ij},w_{ij}^r)$和$\mathcal{M}(u_{ij},s_{ij},w_{ij}^i)$。记：
-$$
 
+$$
 \mathcal M(v_i,v_j,u_{ij}),\qquad
 \mathcal M(u_{ij},c_{ij},w_{ij}^r),\qquad
 \mathcal M(u_{ij},s_{ij},w_{ij}^i).
@@ -141,6 +141,7 @@ $$
 \tag{QC-PROD}
 $$
 （3）正弦和余弦：
+
 $$
 \delta_{ij}=\theta_i-\theta_j,\qquad a\le\delta_{ij}\le b.
 \tag{QC-ANGLE}
